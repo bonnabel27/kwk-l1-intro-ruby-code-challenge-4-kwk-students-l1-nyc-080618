@@ -1,4 +1,4 @@
-def least_coins(coins)
+def least_coins(x)
  money_hash = {:quarters => "0", :dimes => "0", :nickels => "0", :pennies => "0"} 
  a = x/25
 b = x%25
