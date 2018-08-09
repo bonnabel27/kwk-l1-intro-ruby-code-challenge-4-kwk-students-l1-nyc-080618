@@ -10,4 +10,4 @@ f = d%5
 final = a + c + e + g
   puts final
 end
-coins = 143
+least_coins(143)
